@@ -1,0 +1,8 @@
+{
+  "name": "Block Tetris",
+  "description": "Classic arcade block Tetris with authentic piece physics, grid rendering, keyboard & mobile controls, retro sound effects, and scoring.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
